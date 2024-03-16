@@ -3,9 +3,9 @@ import { FaTelegram } from "react-icons/fa6";
 import { FaSquareXTwitter } from "react-icons/fa6";
 function Hero() {
   return (
-    <section className=" bg-main py-[8rem]">
+    <section className=" bg-main py-[2rem] sm:py-[8rem]">
       <div className=" container-wrapper">
-        <div className=" flex flex-col justify-center items-center pt-[1rem]">
+        <div className=" flex flex-col justify-center items-center pt-0 sm:pt-[1rem]">
 
             <h1 className=" asul-bold text-3xl font-semibold py-4">
             Welcome to the world of BabyTrump on Solana!
@@ -17,7 +17,7 @@ function Hero() {
           />
 
           <div className="bg-[#ab3435] rounded-full py-2 px-4 my-3">
-            <h2 className="asul-bold text-2xl">
+            <h2 className="asul-bold text-sm sm:text-2xl">
               0xD3e18a5c295590dEaAA98720ac8cB38Af79c0a12
             </h2>
           </div>
