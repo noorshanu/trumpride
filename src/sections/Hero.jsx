@@ -8,7 +8,7 @@ function Hero() {
         <div className=" flex flex-col justify-center items-center pt-[1rem]">
 
             <h1 className=" asul-bold text-3xl font-semibold py-4">
-            Welcome to the world of Sushi Cat on Solana!
+            Welcome to the world of BabyTrump on Solana!
             </h1>
           <img
             src="images/logo.png"
@@ -23,7 +23,7 @@ function Hero() {
           </div>
 
           <div className="flex justify-center gap-4 items-center">
-            <a href="/" target="_blank" className="bg-[#ab3435] rounded-full text-2xl py-2 px-6  border-2 border-black">
+            <a href="/" target="_blank" className="bg-[#ab3435] rounded-full text-2xl py-2 px-6 font-bold asul-bold  border-2 border-black">
                 Dex Tool
             </a>
 
