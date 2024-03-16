@@ -32,7 +32,7 @@ function Joinclub() {
                 <FaTelegram />
               </a>
 
-              <a href="/" className=" text-lg">
+              <a href="https://trumpride-delta.vercel.app/" className=" text-lg">
                 <FaSquareXTwitter />
               </a>
             </div>

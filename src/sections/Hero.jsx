@@ -33,7 +33,7 @@ function Hero() {
               <FaTelegram />
             </a>
 
-            <a href="/" className=" text-5xl">
+            <a href="https://twitter.com/BabyGroottt" target="_blank" className=" text-5xl">
               <FaSquareXTwitter />
             </a>
           </div>
