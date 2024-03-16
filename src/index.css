@@ -9,7 +9,7 @@
 
   html,
   body {
-    @apply bg-[#042e1d] text-white  ;
+    @apply bg-[#38488c] text-white  ;
   }
 
   .container-wrapper {
