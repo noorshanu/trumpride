@@ -7,7 +7,7 @@ function Hero() {
       <div className=" container-wrapper">
         <div className=" flex flex-col justify-center items-center pt-0 sm:pt-[1rem]">
 
-            <h1 className=" asul-bold text-3xl font-semibold py-4">
+            <h1 className=" asul-bold text-xl sm:text-3xl font-semibold py-4">
             Laugh, stake, and collect rewards with Baby Trump on Solana!
             </h1>
           <img
@@ -23,7 +23,7 @@ function Hero() {
           </div>
 
           <div className="flex justify-center gap-4 items-center">
-            <a href="/" target="_blank" className="bg-[#ab3435] rounded-full text-2xl py-2 px-6 font-bold asul-bold  border-2 border-black">
+            <a href="/" target="_blank" className="bg-[#ab3435] rounded-full text-lg sm:text-2xl py-2 px-6 font-bold asul-bold  border-2 border-black">
                 Dex Tool
             </a>
 

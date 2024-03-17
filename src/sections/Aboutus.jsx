@@ -9,7 +9,7 @@ function Aboutus() {
             <img
               src="images/about.png"
               alt=""
-              className=" h-[490px] rounded-xl"
+              className=" h-auto sm:h-[490px] rounded-xl"
             />
           </div>
 
