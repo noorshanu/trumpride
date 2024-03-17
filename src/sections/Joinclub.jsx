@@ -12,7 +12,7 @@ function Joinclub() {
           </h1>
 
           <p className=" text-center text-xl py-4">
-            Ready to embrace the TrumpBull spirit? Here's how you can get
+            Ready to embrace the Baby Trump spirit? Here's how you can get
             involved:
           </p>
         </div>
@@ -42,8 +42,8 @@ function Joinclub() {
             <h2 className=" text-2xl py-3 asul-bold">Spread the word</h2>
 
             <p className=" text-lg py-4">
-              Share the laughter and spread the message of TrumpBull with your
-              friends, family, and fellow crypto enthusiasts. The more, the
+              Share the laughter and spread the message of Baby Trump with your
+              friends, family, and fellow Meme coin enthusiasts. The more, the
               merrier!
             </p>
 
@@ -54,7 +54,7 @@ function Joinclub() {
             <h2 className=" text-2xl py-3 asul-bold">Create and Collaborate</h2>
 
             <p className=" text-lg py-4">
-              Have a knack for memes or a brilliant idea for a crypto project?
+              Have a knack for memes or a brilliant idea for a Meme coin project?
               We welcome creators, developers, and dreamers of all backgrounds
               to collaborate with us and bring their vision to life.
             </p>
@@ -66,8 +66,8 @@ function Joinclub() {
             <h2 className=" text-2xl py-3 asul-bold">Stay Informed</h2>
 
             <p className=" text-lg py-4">
-              Educate yourself about cryptocurrencies, blockchain technology,
-              and the latest trends in the crypto space. Knowledge is power, and
+              Educate yourself about Meme coincurrencies, blockchain technology,
+              and the latest trends in the Meme coin space. Knowledge is power, and
               we're here to empower you every step of the way.
             </p>
 
@@ -76,8 +76,7 @@ function Joinclub() {
         </div>
 
         <p className=" py-4 text-center">
-          Together, let's make Trump President Again and usher in a new era of
-          crypto innovation, humor, and community spirit!
+        Let's bring laughter, creativity, and a hint of political satire to the Solana world!
         </p>
       </div>
     </section>

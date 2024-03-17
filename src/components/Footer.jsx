@@ -5,7 +5,7 @@ function Footer() {
    <section className=' py-8 bg-[#ab3435]'>
     <div className=' container-wrapper'>
         <p className=' text-center'>
-        © 2024 Trumpbull. All rights reserved.
+        © 2024 Baby Trump. All rights reserved.
         </p>
 
     </div>

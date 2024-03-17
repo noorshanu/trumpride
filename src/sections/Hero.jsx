@@ -8,7 +8,7 @@ function Hero() {
         <div className=" flex flex-col justify-center items-center pt-0 sm:pt-[1rem]">
 
             <h1 className=" asul-bold text-3xl font-semibold py-4">
-            Welcome to the world of BabyTrump on Solana!
+            Laugh, stake, and collect rewards with Baby Trump on Solana!
             </h1>
           <img
             src="images/logo.png"
