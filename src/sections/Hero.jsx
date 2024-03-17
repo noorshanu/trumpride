@@ -17,9 +17,9 @@ function Hero() {
           />
 
           <div className="bg-[#ab3435] rounded-full py-2 px-4 my-3">
-            <h2 className="asul-bold text-sm sm:text-2xl">
-              0xD3e18a5c295590dEaAA98720ac8cB38Af79c0a12
-            </h2>
+            <a href="  https://solscan.io/token/7z9CYQFYBTXEZ4Tv6MhDAWvoeCbzSEAacd5Mc2bEU6kf" target="_blank" className="asul-bold text-sm sm:text-2xl">
+            7z9CYQFYBTXEZ4Tv6MhDAWvoeCbzSEAacd5Mc2bEU6kf
+            </a>
           </div>
 
           <div className="flex justify-center gap-4 items-center">
@@ -29,11 +29,11 @@ function Hero() {
 
 
             <div className=" flex justify-center gap-4 items-center">
-            <a href="/" className=" text-5xl ">
+            <a href="https://t.me/babytrumpso" target="_blank" className=" text-5xl ">
               <FaTelegram />
             </a>
 
-            <a href="https://twitter.com/BabyGroottt" target="_blank" className=" text-5xl">
+            <a href="https://twitter.com/BabyTrumphh" target="_blank" className=" text-5xl">
               <FaSquareXTwitter />
             </a>
           </div>
