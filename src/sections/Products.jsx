@@ -10,7 +10,7 @@ function Products() {
           </div>
 
           <div className=" flex justify-center  flex-col">
-            <h2 className=" text-3xl asul-bold">Get Ready to Stake,President NFTs and MEV Bot</h2>
+            <h2 className=" text-3xl asul-bold text-center">Get Ready to Stake,President NFTs and MEV Bot</h2>
 
             <button className=" bg-[#ab3435] rounded-full text-2xl py-2 px-6  ">Coming Soon</button>
           </div>
