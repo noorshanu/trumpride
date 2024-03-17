@@ -17,7 +17,7 @@ function Hero() {
           />
 
           <div className="bg-[#ab3435] rounded-full py-2 px-4 my-3">
-            <a href="  https://solscan.io/token/7z9CYQFYBTXEZ4Tv6MhDAWvoeCbzSEAacd5Mc2bEU6kf" target="_blank" className="asul-bold text-sm sm:text-2xl">
+            <a href="  https://solscan.io/token/7z9CYQFYBTXEZ4Tv6MhDAWvoeCbzSEAacd5Mc2bEU6kf" target="_blank" className="asul-bold text-xs sm:text-2xl">
             7z9CYQFYBTXEZ4Tv6MhDAWvoeCbzSEAacd5Mc2bEU6kf
             </a>
           </div>
